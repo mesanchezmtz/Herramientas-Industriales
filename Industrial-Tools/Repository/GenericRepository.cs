@@ -5,7 +5,7 @@ using System.Data.Entity;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Web;
-
+//Consultas DB
 namespace Industrial_Tools.Repository
 {
     public class GenericRepository<Entidad> : IRepository<Entidad> where Entidad : class
