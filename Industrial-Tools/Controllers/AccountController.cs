@@ -11,7 +11,7 @@ using Microsoft.Owin.Security;
 using Industrial_Tools.Models;
 using Industrial_Tools.Repository;
 using Industrial_Tools.Models.DAL;
-
+//cuentas
 namespace Industrial_Tools.Controllers
 {
     [Authorize]
