@@ -7,6 +7,8 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+//Carrito de compras
+
 namespace Industrial_Tools.Controllers
 {
     [Authorize]
